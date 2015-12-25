@@ -1,4 +1,5 @@
-require 'date'
+#Ruby Programming Course 1
+equire 'date'
 
 print 'Enter your name: '
 name = gets.chomp
